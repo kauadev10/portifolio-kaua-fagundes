@@ -19,7 +19,7 @@ html {
 }
 
 body {
-    background-color: var(--escuro);
+    background-color: black;
     color: var(--claro);
 }
 
@@ -73,7 +73,7 @@ body {
 .foto-perfil {
     width: 350px;
     height: 350px;
-    box-shadow: 0 0 20px rgba(79, 70, 229, 0.3);
+    box-shadow: 0 0 20px rgb(29, 27, 27);
     border-radius: 50%;
     border: 4px solid var(--vidro);
     animation: flutuar 3s ease-in-out infinite;
